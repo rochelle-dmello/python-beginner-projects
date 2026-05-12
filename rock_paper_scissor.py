@@ -1,4 +1,4 @@
-import thisisforpractice
+
 rock = '''
     _______
 ---'   ____)

@@ -1,6 +1,6 @@
 import random
-import hangman_words
-import hangman_art
+import hangman_words#from hangman_words.py file
+import hangman_art#from hangman_art.py file
 
 
 word_list = hangman_words.word_list
